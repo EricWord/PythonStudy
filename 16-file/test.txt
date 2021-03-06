@@ -1,0 +1,11 @@
+hello
+spark
+scala
+hive
+hadoop
+kettle
+hbase
+kafka
+redis
+mysql
+flink
