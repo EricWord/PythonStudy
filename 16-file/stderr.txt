@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/cuiguangsong/my_files/workspace/python3/PythonStudy/16-file/file_demo7.py", line 18, in <module>
+    print(1 / 0)
+ZeroDivisionError: division by zero
